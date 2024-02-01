@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Carrefour",
+    "logo": "carrefour.png",
+    "link": "https://www.carrefour.fr/"
+  },
+  {
+    "name": "Auchan",
+    "logo": "auchan.png",
+    "link": "https://www.auchan.fr/"
+  },
+  {
+    "name": "Leclerc",
+    "logo": "leclerc.png",
+    "link": "https://www.e-leclerc.com/"
+  },
+  {
+    "name": "Lidl",
+    "logo": "lidl.png",
+    "link": "https://www.lidl.fr/fr/index.htm"
+  },
+  {
+    "name": "Intermarché",
+    "logo": "intermarche.png",
+    "link": "https://www.intermarche.com/"
+  },
+  {
+    "name": "Casino",
+    "logo": "casino.png",
+    "link": "https://www.casinodrive.fr/"
+  }
+]
